@@ -1,0 +1,153 @@
+# KRTX PAGE-BY-PAGE SEO PLAN (2025)
+
+## GLOBAL SEO PRINCIPLES (For Every Page)
+
+* Language: Bulgarian, natural phrasing
+* Geotargeting: Mention Varna & Burgas everywhere relevant
+* Mobile-first: Fast & responsive
+* Schema: LocalBusiness, Service, FAQ, Review
+* NAP Consistency: Display all contact info in footer
+* Google Maps: Embed on contact & service pages
+* Conversion: Sticky CTA everywhere
+* Social Proof: Reviews, testimonials, before-after media
+* Image SEO: Descriptive alt text, filenames in Bulgarian, geotagged if possible
+
+---
+
+## PAGE-BY-PAGE SEO PLAN
+
+### LandingPage.tsx (`/`)
+
+* **Title:** Кърти, Чисти, Извозва Варна и Бургас | Професионални Услуги от KRTX
+* **Meta Description:** Експертни къртачни услуги, почистване и извозване на отпадъци във Варна и Бургас. Денонощна реакция, опитен екип, топ цени. Обадете се за безплатна оферта!
+* **H1:** Кърти, Чисти, Извозва във Варна и Бургас – KRTX
+* **Core Keywords:** кърти чисти извозва Варна, кърти чисти извозва Бургас, къртене на бетон, извозване на отпадъци, къртачни услуги
+* **LSI Keywords:** разрушаване, ремонтни услуги, контейнер за отпадъци, строителни услуги, почистване след ремонт, събаряне на сгради
+* **Key Sections:** Hero (video), Service Grid, Trust/Geo section, FAQ (schema), Testimonials/Gallery, Sticky CTA Bar
+* **Structured Data:** LocalBusiness, FAQ, Review
+* **Internal Links:** Service pages, About, Contact, Gallery
+
+### AboutPage.tsx (`/about`)
+
+* **Title:** За KRTX – Лидер в къртачните услуги за Варна и Бургас
+* **Meta Description:** Научете повече за нашия опитен екип, мисия и професионални стандарти в кърти, чисти, извозва услуги във Варна и Бургас.
+* **H1:** За нас – KRTX
+* **Content:** История, екип, принципи, клиентски истории
+* **Schema:** LocalBusiness, Organization, Review
+
+### BathroomDemolition.tsx (`/bathroom-demolition`)
+
+* **Title:** Къртене на баня във Варна и Бургас | Професионално и Бързо – KRTX
+* **Meta Description:** Къртене на баня, премахване на плочки, санитария и отпадъци във Варна и Бургас. Денонощно, чисто, изгодно. Обадете се за оферта!
+* **H1:** Къртене на баня във Варна и Бургас
+* **Keywords:** къртене на баня Варна, къртене баня Бургас, кърти чисти извозва баня, премахване на плочки
+* **LSI:** демонтаж баня, ремонт баня, извозване отпадъци баня
+* **Content:** Процес, FAQ, Галерия, Отзиви, CTA
+* **FAQ Schema**
+
+### BuildingDemolition.tsx (`/building-demolition`)
+
+* **Title:** Събаряне на сгради Варна и Бургас | KRTX – Къртачни Услуги
+* **Meta Description:** Безопасно събаряне на сгради и конструкций във Варна и Бургас. Сертифициран екип, техника, извозване на отпадъци.
+* **H1:** Събаряне на сгради във Варна и Бургас
+* **Keywords:** събаряне на сгради Варна, разрушаване Бургас, събаряне постройки
+* **LSI:** демонтаж, строителни отпадъци, законови изисквания
+* **Content:** Методи, техника, разрешителни, проекти, видео, testimonials
+* **Schema:** Service, FAQ
+
+### ConcreteDemolition.tsx (`/concrete-demolition`)
+
+* **Title:** Къртене на бетон Варна и Бургас | KRTX – Експертно, Чисто, Бързо
+* **Meta Description:** Къртене на бетон, подове, плочи и фундаменти във Варна и Бургас. Опитен екип, модерна техника, екологично извозване.
+* **H1:** Къртене на бетон във Варна и Бургас
+* **Keywords:** къртене на бетон Варна, къртене бетон Бургас, премахване бетон
+* **LSI:** рязане на бетон, къртене плочи, отпадъци бетон
+* **Content:** Стъпки, цени, FAQ, галерия, CTA
+* **FAQ Schema**
+
+### FloorDemolition.tsx (`/floor-demolition`)
+
+* **Title:** Къртене на подове Варна и Бургас | KRTX – Бърза Реакция
+* **Meta Description:** Къртене и премахване на подове (теракот, ламиниран паркет) във Варна и Бургас. Бързо, чисто, гаранция за качество.
+* **H1:** Къртене на подове във Варна и Бургас
+* **Keywords:** къртене на под Варна, къртене под Бургас, премахване под
+* **LSI:** демонтаж под, премахване теракот, почистване след къртене
+* **Content:** Процес, съвети, галерия, мнения, CTA
+* **FAQ Schema**
+
+### WallDemolition.tsx (`/wall-demolition`)
+
+* **Title:** Къртене на стени Варна и Бургас | KRTX – Професионално, Безопасно
+* **Meta Description:** Къртене и събаряне на стени във Варна и Бургас. Експертен екип, прецизност, чистота. Свържете се с нас!
+* **H1:** Къртене на стени във Варна и Бургас
+* **Keywords:** къртене на стени Варна, къртене стени Бургас, премахване стена
+* **LSI:** събаряне стени, демонтаж, строителни отпадъци
+* **Content:** Видове стени, стъпки, разрешителни, галерия, CTA, мнения
+* **FAQ Schema**
+
+### GalleryPage.tsx (`/gallery`)
+
+* **Title:** Галерия – Кърти, Чисти, Извозва Варна и Бургас | KRTX
+* **Meta Description:** Вижте нашите реализирани проекти във Варна и Бургас – къртене на баня, бетон, стени, подове и др.
+* **H1:** Галерия – Реални проекти във Варна и Бургас
+* **Content:** Before/after images (alt + геотаг), видео, филтриране по град/услуга, testimonials
+
+### ContactPage.tsx (`/contact`)
+
+* **Title:** Свържете се с KRTX | Кърти, Чисти, Извозва Варна и Бургас
+* **Meta Description:** Бърз контакт с KRTX – къртачни услуги във Варна и Бургас. Денонощен телефон, имейл, формуляр, офис адреси. Обадете се сега!
+* **H1:** Свържете се с нас
+* **Content:** Адрес, телефони, имейл, форма, вградени карти, чат, FAQ
+* **Schema:** LocalBusiness, ContactPoint
+
+### PrivacyPolicy.tsx & TermsOfService.tsx
+
+* **Title:** Политика за поверителност | KRTX  /  Общи условия | KRTX
+* **Meta Description:** Прочетете нашата политика за поверителност и условия за ползване.
+* **Content:** Standard legal BG text
+* **SEO:** Index, no keyword optimization
+
+---
+
+## TECHNICAL & OFF-PAGE SEO (Checklist)
+
+* robots.txt: Allow all except /admin, link sitemap
+* Sitemap.xml: Keep updated
+* Google My Business: Separate for Варна & Бургас, update photos/posts/reviews
+* Business Directories: Register/update on major BG portals
+* Structured Data: Validate with Google Rich Results Tool
+* Analytics: GA4, Search Console, Call tracking
+
+---
+
+## CONTENT & LINK STRATEGY
+
+* Blog: Guides, tips, FAQs, comparison content
+* Backlinks: Guest posts, news, partners, event sponsorship
+* Lead Magnet: Downloadable checklist PDF
+
+---
+
+## UX, MONITORING & OPTIMIZATION
+
+* Sticky CTA, chat widget, reviews/testimonials
+* Monthly review: Traffic, rankings, conversions
+* A/B testing: CTA/forms/hero
+* Seasonal/trend keyword refresh
+
+---
+
+## PAGE STRUCTURE SUMMARY TABLE
+
+| Page                | Title                                  | Main Keywords                     | Local Focus   | Schema             |
+| ------------------- | -------------------------------------- | --------------------------------- | ------------- | ------------------ |
+| Landing             | Кърти, Чисти, Извозва Варна и Бургас   | кърти чисти извозва Варна, Бургас | Varna, Burgas | Local, FAQ, Review |
+| About               | За KRTX – Лидер в къртачните услуги    | къртачни услуги Варна, Бургас     | Varna, Burgas | Org, Review        |
+| Bathroom Demolition | Къртене на баня във Варна и Бургас     | къртене баня Варна, Бургас        | Varna, Burgas | FAQ, Service       |
+| Building Demolition | Събаряне на сгради Варна и Бургас      | събаряне на сгради Варна, Бургас  | Varna, Burgas | Service, FAQ       |
+| Concrete Demolition | Къртене на бетон Варна и Бургас        | къртене бетон Варна, Бургас       | Varna, Burgas | FAQ, Service       |
+| Floor Demolition    | Къртене на подове Варна и Бургас       | къртене под Варна, Бургас         | Varna, Burgas | FAQ, Service       |
+| Wall Demolition     | Къртене на стени Варна и Бургас        | къртене стени Варна, Бургас       | Varna, Burgas | FAQ, Service       |
+| Gallery             | Галерия – Кърти, Чисти, Извозва        | галерия къртене Варна, Бургас     | Varna, Burgas | Image, Review      |
+| Contact             | Свържете се с KRTX                     | контакт кърти чисти извозва       | Varna, Burgas | Local, Contact     |
+| Privacy/Terms       | Политика за поверителност/Общи условия | —                                 | —             | Legal              |
